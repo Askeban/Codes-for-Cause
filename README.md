@@ -1,1 +1,4 @@
-# Codes-for-Cause
+# The world is fighting with Covid19 pandemic. There are so many essential equipment's needed to fight against Corona virus. One of such most essential is Face Mask. Firstly face mask was not mandatory for everyone but as the day progresses scientist and Doctors have recommended everyone to wear face mask. Now To detect whether a person is wearing Face Mask or not, we will use Face Mask Detection Technique. Face Mask Detection Platform utilizes Artificial Network to perceive if a person does/doesn’t wear a mask. The application can be associated with any current or new IP cameras to identify individuals with/without a mask. In this blog we will see many important aspect of face mask detection not only for Covid19 cases but also for other regular cases.
+
+The task here is to predict people wearing masks or not wearing them, given an image or a video. It is an object detection and classification problem with 2 different classes (Mask and Without Mask).
+It when implied to real life can actually benefit the society. For this we will use a large amount of database  both for people wearing masks and not wearing it.
